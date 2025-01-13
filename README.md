@@ -1,2 +1,2 @@
 # TreeClassification
-This project classifies trees though images of bark, consisting of 12 different classes. Additionally, it also does a ID-OOD classification.
+This project classifies trees from images of bark, consisting of 12 different classes. It includes an ablation study and an ID-OOD classification.
